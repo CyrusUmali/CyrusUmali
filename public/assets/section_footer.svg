@@ -1,0 +1,78 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="footbggrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1A2E"/>
+      <stop offset="100%" stop-color="#0F2440"/>
+    </linearGradient>
+    
+    <pattern id="footgrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="rgba(184,206,230,0.06)" stroke-width="1"/>
+    </pattern>
+    
+    <linearGradient id="footfade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A33D" stop-opacity="0"/>
+      <stop offset="8%" stop-color="#E8A33D" stop-opacity="1"/>
+      <stop offset="92%" stop-color="#3FA796" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#3FA796" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" fill="url(#footbggrad)"/>
+  <rect width="1200" height="130" fill="url(#footgrid)"/>
+
+<path d="M 18 52 L 18 18 L 52 18" fill="none" stroke="#E8A33D" stroke-width="2.5" stroke-linecap="square"/>
+<path d="M 1182 52 L 1182 18 L 1148 18" fill="none" stroke="#E8A33D" stroke-width="2.5" stroke-linecap="square"/>
+<path d="M 18 78 L 18 112 L 52 112" fill="none" stroke="#E8A33D" stroke-width="2.5" stroke-linecap="square"/>
+<path d="M 1182 78 L 1182 112 L 1148 112" fill="none" stroke="#E8A33D" stroke-width="2.5" stroke-linecap="square"/>
+<line x1="40" y1="19" x2="40" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="64" y1="24" x2="64" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="88" y1="24" x2="88" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="112" y1="24" x2="112" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="136" y1="24" x2="136" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="160" y1="19" x2="160" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="184" y1="24" x2="184" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="208" y1="24" x2="208" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="232" y1="24" x2="232" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="256" y1="24" x2="256" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="280" y1="19" x2="280" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="304" y1="24" x2="304" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="328" y1="24" x2="328" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="352" y1="24" x2="352" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="376" y1="24" x2="376" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="400" y1="19" x2="400" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="424" y1="24" x2="424" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="448" y1="24" x2="448" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="472" y1="24" x2="472" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="496" y1="24" x2="496" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="520" y1="19" x2="520" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="544" y1="24" x2="544" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="568" y1="24" x2="568" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="592" y1="24" x2="592" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="616" y1="24" x2="616" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="640" y1="19" x2="640" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="664" y1="24" x2="664" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="688" y1="24" x2="688" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="712" y1="24" x2="712" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="736" y1="24" x2="736" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="760" y1="19" x2="760" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="784" y1="24" x2="784" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="808" y1="24" x2="808" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="832" y1="24" x2="832" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="856" y1="24" x2="856" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="880" y1="19" x2="880" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="904" y1="24" x2="904" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="928" y1="24" x2="928" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="952" y1="24" x2="952" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="976" y1="24" x2="976" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1000" y1="19" x2="1000" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1024" y1="24" x2="1024" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1048" y1="24" x2="1048" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1072" y1="24" x2="1072" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1096" y1="24" x2="1096" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1120" y1="19" x2="1120" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<line x1="1144" y1="24" x2="1144" y2="30" stroke="#7C94AF" stroke-width="1" opacity="0.35"/>
+<text x="600.0" y="66" font-family="Consolas, 'SFMono-Regular', 'Courier New', monospace" font-size="22" font-weight="700" letter-spacing="4" fill="#EDEFF2" text-anchor="middle">THANKS FOR STOPPING BY</text>
+<text x="600.0" y="94" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" letter-spacing="1" fill="#7C94AF" text-anchor="middle">github.com/CyrusUmali  ·  always building something</text>
+<text x="48" y="114" font-family="Consolas, 'SFMono-Regular', 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#7C94AF" opacity="0.6">// EOF</text>
+<text x="1152" y="114" font-family="Consolas, 'SFMono-Regular', 'Courier New', monospace" font-size="11" letter-spacing="1.5" fill="#7C94AF" text-anchor="end" opacity="0.6">README.MD</text>
+</svg>
